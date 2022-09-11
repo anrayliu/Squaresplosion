@@ -1,0 +1,25 @@
+cursor 30 30
+crosshair 30 30
+menu art w h
+rocks 800 400
+trees 800 400
+gray rocks 800 200
+forest 800 500
+left pan 400 h
+right pan 400 h
+ar right0 250 250
+ar left0 250 250
+ar right1 310 250
+ar left1 310 250
+shell 20 5
+shot 60 30
+test1 800 400
+close 50 50
+game over w h
+open1 200 200
+glow 400 400
+open0 200 200
+closed0 200 150
+closed1 200 150
+tank 40 40
+laser 40 40
